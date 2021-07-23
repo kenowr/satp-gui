@@ -10,4 +10,4 @@ The GUI was designed and tested on a Windows 10 laptop running MATLAB R2018b at 
 
 # Contact
 
-If you discover any bugs or problems with the code, please drop me (Kenneth) an email at wooi002@e.ntu.edu.sg. Feel free to use the code for your own SATP validation experiments as well. If you want to repurpose the code for other subjective experiments outside of the SATP validation experiments, feel free to do so as well, but in that case, I would appreciate it if you could acknowledge me in any work or publication that results from those experiments. Thank you :)
+If you discover any bugs or problems with the code, please drop me (Kenneth) an email at wooi002@e.ntu.edu.sg. Feel free to use the code for your own SATP validation experiments (you will have to translate the text by yourself, however). If you want to repurpose the code for other subjective experiments outside of the SATP validation experiments, feel free to do so as well, but in that case, I would appreciate it if you could acknowledge me in any work or publication that results from those experiments. Thank you :)
