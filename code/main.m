@@ -82,6 +82,7 @@
 
 n_stimuli = 27; % This is the number of stimuli used for the SATP validation experiments.
 results = nan(n_stimuli,11);
+rng('shuffle');
 rand_mat = randperm(n_stimuli); % A 1x27 vector containing rearrangements of the tracks used for the validation experiment.
 stimuli_dir = '../stimuli/'; % You may change this to a different directory if you wish; it should the directory where all the (calibrated) stimuli are stored.
 
