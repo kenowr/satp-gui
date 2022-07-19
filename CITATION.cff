@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: >-
+  GUI for SATP Validation Experiments
+message: 'If you use this software, please cite it as follows'
+type: software
+authors:
+  - given-names: Kenneth
+    family-names: Ooi
+    email: wooi002@e.ntu.edu.sg
+    affiliation: Nanyang Technological University (NTU)
+    orcid: 'https://orcid.org/0000-0001-5629-6275'
+  - given-names: Zhen-Ting
+    family-names: Ong
+    email: ztong@ntu.edu.sg
+    affiliation: Nanyang Technological University (NTU)
+    orcid: 'https://orcid.org/0000-0002-1249-4760'
+  - given-names: Karn N.
+    family-names: Watcharasupat
+    email: karn001@ntu.edu.sg
+    orcid: 'https://orcid.org/0000-0002-3878-5048'
+    affiliation: Nanyang Technological University (NTU)
+  - given-names: Bhan
+    family-names: Lam
+    email: bhanlam@ntu.edu.sg
+    affiliation: Nanyang Technological University (NTU)
+    orcid: 'https://orcid.org/0000-0001-5193-6560'
